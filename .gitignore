@@ -4,7 +4,7 @@
 *.iml
 /target/*
 /**/target/
-
+application-test.properties
 
 # git
 *.orig
